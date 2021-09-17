@@ -1,0 +1,79 @@
+.container-progress {
+    background-color: #b0bec5;
+    width: 80%;
+    border-radius: 15px;
+}
+
+.skill {
+    background-color: #2196f3;
+    color: white;
+    padding: 1%;
+    text-align: right;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.fr {
+    width: 100%;
+}
+
+.en {
+    width: 60%
+}
+
+.es {
+    width: 30%;
+}
+
+.office {
+    width: 75%;
+}
+
+.prog {
+    width: 50%;
+}
+
+.modelis {
+    width: 60%;
+}
+
+.bdd {
+    width: 50%;
+}
+
+.audio {
+     width: 70%;
+}
+
+.video {
+    width: 60%;
+}
+
+.cao {
+    width: 65%;
+}
+
+/* couleur du texte de card-tabs */
+.tabs .tab a{
+    color:#2196f3;
+}
+
+/* couleur du hover */
+.tabs .tab a:hover {
+    background-color:#eee;
+    color:#2a5579;
+}
+
+.tabs .tab a.active {
+    color:#2a5579;
+}
+
+/* couleur de l'underline */
+.tabs .indicator {
+    background-color:#2a5579;
+}
+
+/* couleur du blockquote */
+blockquote{
+    border-left: 5px solid #2196f3;
+  }
