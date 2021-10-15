@@ -42,7 +42,7 @@
 }
 
 .audio {
-     width: 70%;
+    width: 70%;
 }
 
 .video {
@@ -53,27 +53,35 @@
     width: 65%;
 }
 
+
 /* couleur du texte de card-tabs */
-.tabs .tab a{
-    color:#2196f3;
+
+.tabs .tab a {
+    color: #2196f3;
 }
 
+
 /* couleur du hover */
+
 .tabs .tab a:hover {
-    background-color:#eee;
-    color:#2a5579;
+    background-color: #eee;
+    color: #2a5579;
 }
 
 .tabs .tab a.active {
-    color:#2a5579;
+    color: #2a5579;
 }
+
 
 /* couleur de l'underline */
+
 .tabs .indicator {
-    background-color:#2a5579;
+    background-color: #2a5579;
 }
 
+
 /* couleur du blockquote */
-blockquote{
+
+blockquote {
     border-left: 5px solid #2196f3;
-  }
+}
