@@ -25,20 +25,24 @@
     width: 30%;
 }
 
+.jap {
+    width: 10%;
+}
+
 .office {
     width: 75%;
 }
 
 .prog {
-    width: 65%;
+    width: 75%;
 }
 
 .modelis {
-    width: 65%;
+    width: 70%;
 }
 
 .bdd {
-    width: 60%;
+    width: 70%;
 }
 
 .audio {
@@ -50,7 +54,7 @@
 }
 
 .cao {
-    width: 65%;
+    width: 60%;
 }
 
 
