@@ -89,3 +89,9 @@
 blockquote {
     border-left: 5px solid #2196f3;
 }
+
+.lang {
+    width: 25px;
+    height: 25px;
+    align-items: center;
+}
